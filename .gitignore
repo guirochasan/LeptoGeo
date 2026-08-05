@@ -23,3 +23,11 @@ CMakeFiles/
 *.user
 .vscode/
 .idea/
+# Ignorar pasta do Qt e compiladores
+6.8.3/
+**/6.8.3/
+
+# Ignorar bilbiotecas estáticas e dinâmicas que possam surgir em compilações
+*.a
+*.so
+*.dylib
