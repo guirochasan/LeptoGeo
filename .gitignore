@@ -1,0 +1,25 @@
+# Ambientes Virtuais (Python/Ferramentas de suporte)
+venv/
+.venv/
+env/
+ENV/
+
+# Builds e Artefatos do C++ / CMake / Qt
+build/
+build-*/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+!CMakeLists.txt
+
+# Binários executáveis e objetos
+*.o
+*.obj
+*.so
+*.dylib
+*.exe
+
+# Arquivos de IDE (Qt Creator, VS Code, CLion)
+*.user
+.vscode/
+.idea/
