@@ -192,3 +192,4 @@
 2026-07-29 23:39:00,797 - aqt.updater - INFO - updater 132375561691264 Patching /home/gui-rocha/trabalho_cleber/Sistema-de-Monitoramento-e-Assist-ncia-ao-combate-Leptospirose/6.8.3/gcc_64/lib/libQt6OpenGL.prl
 2026-07-29 23:39:00,798 - aqt.main - INFO - installer 132375561691264 Finished installation
 2026-07-29 23:39:00,798 - aqt.main - INFO - installer 132375561691264 Time elapsed: 157.72267834 second
+2026-08-05 01:28:15,471 - aqt.helper - DEBUG - helper 134165554070272 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/linux_x64/desktop/qt6_683/qt6_683/Updates.xml.sha256
